@@ -15,6 +15,7 @@ export default function MarkdownRenderer({ content, className = '' }: MarkdownRe
         remarkPlugins={[remarkMath]}
         rehypePlugins={[rehypeKatex]}
         components={{
+          // eslint-disable-next-line @typescript-eslint/no-unused-vars
           p: ({ node, ...props }) => <span {...props} />,
         }}
       >

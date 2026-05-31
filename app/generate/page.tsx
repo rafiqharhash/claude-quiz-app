@@ -15,7 +15,7 @@ import GeneratingAnimation from '@/components/generate/GeneratingAnimation';
 import { Button } from '@/components/ui/button';
 import { useQuizStore } from '@/store/quizStore';
 import { validateTextInput } from '@/lib/validators';
-import type { QuizQuestion, SourceType } from '@/types/quiz';
+import type { QuizQuestion } from '@/types/quiz';
 
 type Tab = 'pdf' | 'text';
 

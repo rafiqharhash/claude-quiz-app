@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef } from 'react';
+
 import { motion } from 'framer-motion';
 import { getScoreColor, getScoreLabel, formatTime } from '@/lib/utils';
 import type { QuizResult } from '@/types/quiz';
