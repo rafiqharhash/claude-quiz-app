@@ -2,7 +2,7 @@
 
 > **AI-powered quiz generator** that transforms PDFs or text into interactive multiple-choice quizzes using the **Google Gemini AI** (free API).
 
-![QuizMind AI](https://via.placeholder.com/1200x600/1a1a2e/a855f7?text=QuizMind+AI+Screenshot)
+![QuizMind AI](public/screenshots/hero.png)
 
 ## ✨ Features
 
@@ -156,7 +156,11 @@ npm start
 
 ## 📸 Screenshots
 
-> Add screenshots of the Landing Page, Generate Page, Quiz Page, and Results Page here after first run.
+### Generate your quiz easily
+![Generate Quiz](public/screenshots/generate.png)
+
+### Packed with powerful features
+![Features](public/screenshots/features.png)
 
 ---
 
